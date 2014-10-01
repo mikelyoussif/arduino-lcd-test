@@ -34,7 +34,7 @@
 
  http://www.arduino.cc/en/Tutorial/LiquidCrystal
  */
-zsxdcfvbnm,./
+
 // include the library code:
 #include <LiquidCrystal.h>
 
@@ -55,4 +55,4 @@ void loop() {
   // print the number of seconds since reset:
   lcd.print(millis()/1000);
 }
-hello om el 5ara
+
